@@ -7,7 +7,8 @@ connectTOMongo();
 
 const app = express()
 const port = process.env.PORT || 5000
-app.use(cors({origin : "https://inotebook-frontend-cf1g.onrender.com" , credentials: true}))
+app.use(cors({origin : "https://inotebook-frontend-cf1g.onrender.com" , credentials: true ,methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+  allowedHeaders: "Content-Type,Authorization"}))
 //middleware --> to use req.body
 app.use(express.json())
 
