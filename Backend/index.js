@@ -7,7 +7,7 @@ connectTOMongo();
 
 const app = express()
 const port = process.env.PORT || 5000
-app.use(cors())
+app.use(cors({origin : "https://inotebook-frontend-cf1g.onrender.com" , credentials: true}))
 //middleware --> to use req.body
 app.use(express.json())
 
@@ -17,5 +17,5 @@ app.use('/api/notes' , require('./routes/notes'))
 
 
 app.listen(port, () => {
-  console.log(`iNoteBook app listening on port http://localhost:${port}`)
+  console.log(`iNoteBook app listening on port ${port}`)
 })
