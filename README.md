@@ -8,7 +8,8 @@ Welcome to **iNotebook**, a secure and feature-rich cloud-based notes applicatio
 
 ## ✨ Features
 
-✅ **User Authentication** - Secure login with JWT authentication. 
+✅ **User Authentication** - Secure login with JWT authentication.
+
 ✅ **Cloud Storage** - Access your notes from any device. 
 ✅ **CRUD Operations** - Create, read, update, and delete notes effortlessly. 
 ✅ **Categorization & Search** - Organize notes with categories and find them easily. 
