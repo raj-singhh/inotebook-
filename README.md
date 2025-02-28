@@ -8,10 +8,10 @@ Welcome to **iNotebook**, a secure and feature-rich cloud-based notes applicatio
 
 ## ✨ Features
 
-✅ **User Authentication** - Secure login with JWT authentication.
-✅ **Cloud Storage** - Access your notes from any device. 
-✅ **CRUD Operations** - Create, read, update, and delete notes effortlessly. 
-✅ **Categorization & Search** - Organize notes with categories and find them easily. 
+✅ **User Authentication** - Secure login with JWT authentication.  
+✅ **Cloud Storage** - Access your notes from any device.  
+✅ **CRUD Operations** - Create, read, update, and delete notes effortlessly.  
+✅ **Categorization & Search** - Organize notes with categories and find them easily.  
 ✅ **Responsive UI** - Optimized for mobile and desktop.
 
 ---
@@ -64,13 +64,11 @@ JWT_SECRET=your_secret_key
 
 ---
 
-## 📸 Screenshots
 
-![Screenshot 1](./screenshots/Screenshot%20(425).png)
-![Screenshot 2](./screenshots/Screenshot%20(426).png)
-![Screenshot 3](./screenshots/Screenshot%20(427).png)
-![Screenshot 4](./screenshots/Screenshot%20(428).png)
-![Screenshot 5](./screenshots/Screenshot%20(429).png)
+
+
+
+
 
 ---
 
@@ -94,9 +92,20 @@ Contributions are welcome! Feel free to **fork** the repository and submit a **p
 
 ## 📬 Contact
 
-📧 Email: rajsinghh314@gmail.com
+📧 Email: rajsinghh314@gmail.com  
 🔗 LinkedIn: [Raj Singh](https://www.linkedin.com/in/rajsingh-/)
 
+## 📸 Screenshots
+Login Page 
+![Screenshot 1](https://github.com/user-attachments/assets/926021e5-398f-4e3f-950e-edfe855af7f6)
+SignUp Page
+![Screenshot 2)](https://github.com/user-attachments/assets/09f7edcf-778c-42ed-be10-50911408a16c)
+Home
+![Screenshot 3](https://github.com/user-attachments/assets/e2d59482-c8c2-45b0-a7fb-672dfd0c023a)
+
+![Screenshot 4)](https://github.com/user-attachments/assets/4e56428d-d8fa-4543-8fc5-6cf56f58de5b)
+Edit Modal
+![Screenshot (429)](https://github.com/user-attachments/assets/8c33040a-1cf1-4076-8799-9af99243c345)
 ---
 
 🚀 **Happy Coding!**
