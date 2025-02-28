@@ -1,7 +1,10 @@
-import React, { useState  } from 'react'
+import React, { useState,useEffect  } from 'react'
 import { useNavigate ,Link } from 'react-router-dom';
 
 const Login = (props) => {
+    useEffect(() => {
+        window.scrollTo(0, 0); // Scroll to the top when component mounts
+    }, [])
     const [showPassword, setShowPassword] = useState(false);
 
     const togglePasswordVisibility = () => {
