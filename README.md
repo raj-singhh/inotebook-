@@ -13,7 +13,6 @@ Welcome to **iNotebook**, a secure and feature-rich cloud-based notes applicatio
 ✅ **CRUD Operations** - Create, read, update, and delete notes effortlessly.  
 ✅ **Categorization & Search** - Organize notes with categories and find them easily.  
 ✅ **Responsive UI** - Optimized for mobile and desktop.
-
 ---
 
 ## 🛠️ Tech Stack
