@@ -1,4 +1,4 @@
-# 📝 iNotebook - Your Personal Cloud Notebook
+# 📝 iNotebook - Your Personal Cloud Notebook 
 
 ## 🚀 Introduction
 
