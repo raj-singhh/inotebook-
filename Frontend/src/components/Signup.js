@@ -1,5 +1,5 @@
 import React , {useState ,useEffect} from 'react'
-import { useNavigate } from 'react-router-dom';
+import { useNavigate ,Link } from 'react-router-dom';
 
 const Signup = (props) => {
   useEffect(() => {
@@ -103,7 +103,7 @@ const Signup = (props) => {
             </div>
             {/* Login Link */}
             <div className="text-center mt-3">
-                <p className="mb-0">Already have an account? <a href="/login" className="text-primary fw-bold">Login</a></p>
+                <p className="mb-0">Already have an account? <Link to="/login" className="text-primary fw-bold">Login</Link></p>
             </div>
         </form>
     </div>
