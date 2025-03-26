@@ -16,7 +16,7 @@ Welcome to **iNotebook**, a secure and feature-rich cloud-based notes applicatio
 ---
 
 ## 🛠️ Tech Stack
-
+ 
 - **Frontend:** React.js, Bootstrap, CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
