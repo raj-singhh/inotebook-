@@ -5,7 +5,6 @@
 Welcome to **iNotebook**, a secure and feature-rich cloud-based notes application. Store, manage, and access your notes anytime, anywhere. Built with **MERN stack**, iNotebook ensures a seamless experience with a user-friendly interface and authentication for privacy.  
 
 ---
-
 ## ✨ Features
 
 ✅ **User Authentication** - Secure login with JWT authentication.  
